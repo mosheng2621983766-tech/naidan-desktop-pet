@@ -1,0 +1,9 @@
+.DS_Store
+._*
+build/
+*.app/
+Frames/
+.env
+.env.*
+*.pem
+*.key
